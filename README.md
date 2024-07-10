@@ -1,2 +1,3 @@
 # UI-for-NVIDIA-NIM-Container
 Under Construction...
+![Description of GIF](UI_NIM_Container.gif)
